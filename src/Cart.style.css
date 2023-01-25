@@ -1,0 +1,19 @@
+.cart {
+  width: 80%;
+  /* border-bottom: 1px solid #999; */
+  margin-bottom: 10px;
+  height: 75px;
+}
+
+.proceed-section {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.proceed-btn {
+  background-color: #F0C041;
+  border: none;
+  padding: 10px;
+  font-size: 1rem;
+}
